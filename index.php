@@ -102,25 +102,22 @@
                         <img src="img/catalog/5.png" class="img-thumbnail" alt="">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/1.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/6.png" class="img-thumbnail" alt="">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/1.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/7.png" class="img-thumbnail" alt="">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/1.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/8.png" class="img-thumbnail" alt="">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/1.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/9.png" class="img-thumbnail" alt="">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/1.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/10.png" class="img-thumbnail" alt="">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/1.png" class="img-thumbnail" alt="">
-                    </div>
-                    <div class="col-sm-4">
-                        <img src="img/catalog/1.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/11.png" class="img-thumbnail" alt="">
                     </div>
                 </div>
             </div>
