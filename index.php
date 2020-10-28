@@ -137,7 +137,7 @@
                         <div id="testimonial-slider" class="owl-carousel">
                             <div class="testimonial">
                                 <p class="description">
-                                    Bagus bgt, sesuai apa yg kita mau, desainnya kece.
+                                    Bagus banget, pesanan sesuai permintaan, desainnya kece abis.
                                 </p>
                                 <div class="pic">
                                     <img src="img/client/img1.png" alt="">
@@ -157,7 +157,7 @@
                             </div>
                             <div class="testimonial">
                                 <p class="description">
-                                    Desain sesuai keinginan. Proses pengerjaaan, pengemasan, dan pengiriman cukup cepat.
+                                    Proses pengerjaaan, pengemasan, dan pengiriman sangat cepat.
                                 </p>
                                 <div class="pic">
                                     <img src="img/client/img2.png" alt="">
@@ -167,7 +167,7 @@
                             </div>
                             <div class="testimonial">
                                 <p class="description">
-                                    Penjual ramah dan barang juga bagus.
+                                    Penjual ramah dan barang juga bagus. Sangat reccomended.<br>
                                 </p>
                                 <div class="pic">
                                     <img src="img/client/img3.png" alt="">
