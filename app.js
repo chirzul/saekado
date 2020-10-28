@@ -14,6 +14,6 @@ $(document).ready(function () {
 function myFunction() {
     var name = document.getElementById("name").value;
     var message = document.getElementById("message").value;
-    var href = "https://wa.me/6282242861274?text=".concat("Hi, saya ", name, "! ", message);
+    var href = "https://wa.me/6281229744574?text=".concat("Hi, saya ", name, "! ", message);
     location.href = href;
 }

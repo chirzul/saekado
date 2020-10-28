@@ -137,7 +137,7 @@
                         <div id="testimonial-slider" class="owl-carousel">
                             <div class="testimonial">
                                 <p class="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus blandit dui non.
+                                    Bagus bgt, sesuai apa yg kita mau, desainnya kece.
                                 </p>
                                 <div class="pic">
                                     <img src="img/client/img1.png" alt="">
@@ -147,7 +147,7 @@
                             </div>
                             <div class="testimonial">
                                 <p class="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus blandit dui non.
+                                    Keren banget! pengerjaan cepat, pengiriman cepat, terimakasih!
                                 </p>
                                 <div class="pic">
                                     <img src="img/client/boy.png" alt="">
@@ -157,7 +157,7 @@
                             </div>
                             <div class="testimonial">
                                 <p class="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus blandit dui non.
+                                    Desain sesuai keinginan. Proses pengerjaaan, pengemasan, dan pengiriman cukup cepat.
                                 </p>
                                 <div class="pic">
                                     <img src="img/client/img2.png" alt="">
@@ -167,7 +167,7 @@
                             </div>
                             <div class="testimonial">
                                 <p class="description">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus blandit dui non.
+                                    Penjual ramah dan barang juga bagus.
                                 </p>
                                 <div class="pic">
                                     <img src="img/client/img3.png" alt="">
