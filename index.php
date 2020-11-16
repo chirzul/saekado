@@ -17,14 +17,14 @@
 
     <!-- Fonts -->
 
-    <title>SaeKado.id</title>
+    <title>SaeKado</title>
 </head>
 
 <body>
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
         <div class="container">
-            <a class="navbar-brand" href="#"><img src="img/logo.png" alt="Logo"></a>
+            <a class="navbar-brand" href="#"><img src="img/logo.png" alt="Logo Saekado"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
                 aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -87,37 +87,37 @@
                 </div>
                 <div class="row">
                     <div class="col-sm-4">
-                        <img src="img/catalog/1.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/1.png" class="img-thumbnail" alt="Produk Saekado">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/2.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/2.png" class="img-thumbnail" alt="Produk Saekado">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/3.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/3.png" class="img-thumbnail" alt="Produk Saekado">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/4.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/4.png" class="img-thumbnail" alt="Produk Saekado">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/5.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/5.png" class="img-thumbnail" alt="Produk Saekado">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/6.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/6.png" class="img-thumbnail" alt="Produk Saekado">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/7.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/7.png" class="img-thumbnail" alt="Produk Saekado">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/8.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/8.png" class="img-thumbnail" alt="Produk Saekado">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/9.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/9.png" class="img-thumbnail" alt="Produk Saekado">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/10.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/10.png" class="img-thumbnail" alt="Produk Saekado">
                     </div>
                     <div class="col-sm-4">
-                        <img src="img/catalog/11.png" class="img-thumbnail" alt="">
+                        <img src="img/catalog/11.png" class="img-thumbnail" alt="Produk Saekado">
                     </div>
                 </div>
             </div>
